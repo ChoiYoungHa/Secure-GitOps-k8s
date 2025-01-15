@@ -144,7 +144,9 @@ Git 저장소와 쿠버네티스 클러스터 접근에 필요한 민감한 자�
 ### 📊 보안 모니터링 시스템 구축
 #### 프로메테우스 스택 배포
 ![image](https://github.com/user-attachments/assets/dae48b5f-14eb-47bb-8bff-063f557fa8fd)
+
 프로메테우스 스택을 배포하여 StarBoard에서 생성되는 벤치마크 보고서를 프로메테우스 매트릭으로 전송합니다.
+
 #### 보안 취약점 시각화
 ![image](https://github.com/user-attachments/assets/e7a092ef-133b-42ae-992c-a812dd8ce9cc)
 배포된 모든 Application의 취약점 레포트를 한눈에 확인 가능합니다.
